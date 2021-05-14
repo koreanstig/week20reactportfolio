@@ -7,7 +7,6 @@ Using React framework, I will create a new portfolio that will showcase my best 
 ## Table of Contents 
 
 * [Usage](#usage)
-* [License](#license)
 * [Documentation](#documentation)
 - [Contributors](#contributors)
 - [Questions](#questions)
